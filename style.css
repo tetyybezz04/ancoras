@@ -4,3 +4,15 @@ border-style: dashed;
 border-width: px;
 background-color: aqua;
 }
+
+h2 {text-align: center;
+border-color: blueviolet;
+border-style: dashed;
+border-width: px;
+background-color: aqua;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(62, 62, 167);
+}
